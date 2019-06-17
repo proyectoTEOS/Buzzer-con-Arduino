@@ -41,4 +41,4 @@ void loop() {
 
 ### Diagrama
 El siguiente esquemático muestra como se debe conectar todos los componentes con la placa.
-![](https://github.com/proyectoTEOS/Buzzer-con-Arduino/blob/master/buzzer-con-arduino.jpg)
+![](https://github.com/proyectoTEOS/Buzzer-con-Arduino/blob/master/buzzer-con-arduino-5.jpg)
